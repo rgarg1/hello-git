@@ -9,13 +9,13 @@
 ### Tests Included?
 <!-- markdown The PR **must** include tests, if applicable -->
 
-### Release Notes
+#### Documentation Included?
+<!-- markdown The PR **must** include documentation, if applicable -->
+
+#### Release Notes
 <!-- markdown To be included in marketing announcement - N/A for bugs. -->
 <!-- A brief two line documentation of the functionality added/improved -->
 
-### Documentation Included?
-<!-- markdown The PR **must** include documentation, if applicable -->
-
-### @mentions
+#### @mentions
 <!-- markdown Mention the people who should review this PR -->
 
